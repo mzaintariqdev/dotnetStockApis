@@ -135,3 +135,4 @@ F:\netbeproject\api\obj\Debug\net8.0\refint\api.dll
 F:\netbeproject\api\obj\Debug\net8.0\api.pdb
 F:\netbeproject\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 F:\netbeproject\api\obj\Debug\net8.0\ref\api.dll
+F:\netbeproject\api\obj\Debug\net8.0\api.sourcelink.json
